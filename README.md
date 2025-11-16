@@ -1,5 +1,3 @@
-Absolutely, Leander. Here's a version of your README written in your voice — personal, honest, and grounded in your passion for the project:
-
 FurryTail Launcher
 Hi, I’m Leander. I started building FurryTail Launcher because I wanted to create something that felt more personal than the usual Minecraft experience. I’m just a teen working on this in my free time, but I care a lot about making something that brings people together — especially those who don’t always feel at home in mainstream gaming spaces.
 FurryTail Launcher is based on MultiMC, but it’s more than just a launcher. It’s meant to be a cozy, inclusive space for furries, femboys, catboys, catgirls, and anyone else who vibes with that energy. I wanted to build something that reflects the kind of community I wish existed more often: friendly, expressive, and open-minded.
