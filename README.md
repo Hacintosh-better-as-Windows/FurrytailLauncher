@@ -1,53 +1,26 @@
-<p align="center">
-  <img src="https://avatars2.githubusercontent.com/u/5411890" alt="MultiMC logo"/>
-</p>
+Absolutely, Leander. Here's a version of your README written in your voice — personal, honest, and grounded in your passion for the project:
 
-MultiMC
-=======
+FurryTail Launcher
+Hi, I’m Leander. I started building FurryTail Launcher because I wanted to create something that felt more personal than the usual Minecraft experience. I’m just a teen working on this in my free time, but I care a lot about making something that brings people together — especially those who don’t always feel at home in mainstream gaming spaces.
+FurryTail Launcher is based on MultiMC, but it’s more than just a launcher. It’s meant to be a cozy, inclusive space for furries, femboys, catboys, catgirls, and anyone else who vibes with that energy. I wanted to build something that reflects the kind of community I wish existed more often: friendly, expressive, and open-minded.
+What I’m working on
+This project is still in early development, but here’s what I’m planning:
+- Built-in voice chat so you can talk directly while playing
+- A better-looking launcher with custom themes
+- Discord integration to stay connected with the community
+- A cleaner, more useful website
+- Support for mods and more customization
+- And lots of other ideas I’m excited to explore
+Download
+The launcher isn’t ready for public release yet, but I’ve started packaging it for Linux. If you’re on Debian or Ubuntu, you’ll be able to download it here once it’s ready:
+Download furrytaillauncher_0.0.1-1_amd64.deb
+Other platforms will come later.
+Want to support or join in?
+This is a solo project, but I’d love to have people involved — whether that’s testing, giving feedback, or just hanging out. Here’s where you can find me and the community:
+- Patreon — if you want to support development
+- Discord — for chatting, updates, and feedback
+- Reddit — for discussions and news
+Thanks for checking this out. I’m building this because I believe in it, and I hope you’ll find something here that feels good to be part of.
+— Leander
 
-MultiMC is a custom launcher for Minecraft that focuses on predictability, long term stability and simplicity.
 
-## Development
-If you want to contribute, talk to us on [Discord](https://discord.gg/multimc) first.
-
-While blindly submitting PRs is definitely possible, they're not necessarily going to get accepted.
-
-We aren't looking for flashy features, but expanding upon the existing feature set without disruption or endangering the future viability of the project is OK.
-
-### Building
-If you want to build the launcher yourself, check [BUILD.md](BUILD.md) for build instructions.
-
-### Code formatting
-Just follow the existing formatting.
-
-In general, in order of importance:
-* Make sure your IDE is not messing up line endings or whitespace and avoid using linters.
-* Prefer readability over dogma.
-* Keep to the existing formatting.
-* Indent with 4 space unless it's in a submodule.
-* Keep lists (of arguments, parameters, initializers...) as lists, not paragraphs. It should either read from top to bottom, or left to right. Not both.
-
-## Translations
-Translations can be done [on crowdin](https://translate.multimc.org). Please avoid making direct pull requests to the translations repository.
-
-## License
-Copyright &copy; 2013-2022 MultiMC Contributors
-
-Licensed under the Apache License, Version 2.0 (the "License"); you may not use this program except in compliance with the License. You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
-
-Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
-
-## Forking/Redistributing/Custom builds policy
-We keep Launcher open source because we think it's important to be able to see the source code for a project like this, and we do so using the Apache license.
-
-The license gives you access to the source MultiMC is built from, but not:
-- The name, logo and other branding.
-- The API tokens required to talk to services that the launcher depends on.
-
-Because of the nature of the agreements required to interact with the Microsoft identity platform, it's impossible for us to continue allowing everyone to build the code as 'MultiMC'. The source code has been debranded and now builds as `DevLauncher` by default.
-
-You must provide your own branding if you want to distribute your own builds.
-
-You will also have to register your own app on Azure to be able to handle Microsoft account logins.
-
-If you decide to fork the project, a mention of its origins in the About dialog and the license is acceptable. However, it should be abundantly clear that the project is a fork *without* implying that you have our blessing.
